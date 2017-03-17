@@ -9,3 +9,5 @@ We follow this broad pattern:
 - Diverge;
 - Spot patterns;
 - Converge.
+
+We use the [Retromat](https://plans-for-retrospectives.com/) as our main source of ideas.
