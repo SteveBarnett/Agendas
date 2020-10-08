@@ -3,7 +3,7 @@ Format: https://retromat.org/en/?id=82-4-8-63-77
 - **Three Words - 10m**. Everybody sums up the project in 3 words.
     - Do this on a sticky, quietly. Then go around the room. Optionally, each person can talk about one of their words.
 - **Timeline - 20m**. Participants write down significant events and order them chronologically.
-	- Works best with a little homework. "Please spend 10 minutes thinking of 3 things that happened during the run up to the release of Engage. They can be good, bad, or ugly. Write down **the what** and **the when** and bring your notes to the rutro."
+	- Works best with a little homework. "Please spend 10 minutes thinking of 3 things that happened during the run up to the release of Engage. They can be good, bad, or ugly. Write down **the what** and **the when**, one event per sticky, and bring your them to the rutro."
 	- Draw a long timeline, with a :) above and a :( below
 	- Form groups of 3 and place them on the timeline.
 - **5 Whys - 20m**. Drill down to the root cause of problems by repeatedly asking 'Why?'.
